@@ -8,6 +8,9 @@ using System.Threading.Tasks;
 
 namespace Encryption
 {
+    /// <summary>
+    /// Ref https://www.selamigungor.com/post/7/encrypt-decrypt-a-string-in-csharp
+    /// </summary>
     public static class Cipher
     {
         /// <summary>
